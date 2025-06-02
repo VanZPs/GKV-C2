@@ -1,0 +1,32 @@
+List pekerjaan:
+* Bikin environment pake tekstur
+* Implement lighting dan shadow...
+* Ganti nama window dan printf" di main
+
+Gameplay ideas:
+* Implement power up:
+    * Multiply bola
+    * Bikin paddle lebih panjang
+    * Nambah lives
+* Variable scoring: destroy block beruntun -> score berlipat ganda
+* Pause/play state
+* Implement particles
+
+Requirements:
+1. (done) Menerapkan bentu geometri 
+2. (done) Menerapkan transformasi (translasi, rotasi, dan scale) secara realtime
+3. (done) Menerapkan kamera
+4. (!!!!) Lightning 
+5. (done) Interaksi dengan masukan
+6. (!!!!) Menerapkan toggle untuk mengaktifkan shadow
+7. (!!!!) Menerapkan texture
+8. (done) Menerapkan interaksi objeck
+
+// Placeholder for future particle effects
+void drawEnvironmentParticles() {
+    // This could be used for visual effects like:
+    // - Sparks when blocks are destroyed
+    // - Ambient floating particles
+    // - Impact effects
+    // Currently empty, ready for future enhancements
+}
